@@ -7,7 +7,11 @@
     background-color: rgba(255, 0, 0, 0.493);
  }
 
-  /* End banner slider style */
+/* End banner slider style */
 
-   /* start featured-bikes style */
-   
+/* start Happy client style */
+.rating-icon img{
+    width: 20px;
+}
+
+/* End Happy client style */
